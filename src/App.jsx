@@ -11,7 +11,7 @@ function App() {
     }}>
       <h1 style={{ fontSize: '3rem', color: '#1a1a2e' }}>Hello, World! 👋</h1>
       <p style={{ fontSize: '1.2rem', color: '#555' }}>
-        Week 4 DevReady Demo!
+        Week 4 DevReady is here!!
       </p>
     </div>
   )
